@@ -1,0 +1,6 @@
+name: "S3 Operations"
+description: "S3 Upload or Download files"
+author: firzenyogesh
+runs:
+  using: docker
+  image: Dockerfile
